@@ -1,4 +1,5 @@
-# WorkFinderBot: A telegram bot that can register a user and help to find a work. The aiogram library is taken as a basis.
+# WorkFinderBot: 
+A telegram bot that can register a user and help to find a work. The aiogram library is taken as a basis.
 
 Вимоги: Python 3.10 aiogram 2.20
 
